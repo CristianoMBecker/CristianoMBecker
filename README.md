@@ -4,4 +4,3 @@
 - 🌱 I’m currently learning react, mySQL, Jest
 - ⚡ Fun fact: I know how to center a div
 - 📞 Contact: crisbecker50@gmail.com
-- 
